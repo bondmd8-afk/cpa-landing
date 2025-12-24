@@ -85,8 +85,8 @@ export const offers = [
   },
   {
     id: 14,
-    title: "McDonald's Free Samples",
-    image: "/images/macdonald's.jpg",
+    title: "mcdonalds Free Samples",
+    image: "/images/mcdonalds.jpg",
     url: "https://try.i-scoredittoday.com/w?",
   },
   {
